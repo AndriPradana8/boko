@@ -1,0 +1,39 @@
+/* Styling Volume Icon */
+.volume-icon {
+    position: fixed;
+    top: 20px;
+    left: 30px;
+    font-size: 30px;
+    cursor: pointer;
+    color: #333;
+    z-index: 2;
+}
+
+.arrow {
+    position: fixed;
+    bottom: 15px;
+    right: 27px;
+    font-size: 30px;
+    cursor: pointer;
+    color: #333;
+    z-index: 2;
+} 
+
+.arrow i {
+    color: #333;
+}
+
+.kiri {
+    position: fixed;
+    bottom: 15px;
+    left: 27px;
+    font-size: 30px;
+    cursor: pointer;
+    color: #333;
+    z-index: 2;
+} 
+
+.kiri i {
+    color: #333;
+}
+
